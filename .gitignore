@@ -1,0 +1,8 @@
+dev/
+bin/
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.txt
